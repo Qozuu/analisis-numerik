@@ -1,68 +1,111 @@
-# ✨ PENGUMPULAN TUGAS ANALISIS NUMERIK (A) ✨
+# <p align="center">🧮 ANALISIS NUMERIK (A)</p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=github" alt="Status">
-  <img src="https://img.shields.io/badge/Tools-Python%20%7C%20Jupyter-blue?style=for-the-badge&logo=python" alt="Tools">
-  <img src="https://img.shields.io/badge/Language-Bahasa%20Indonesia-red?style=for-the-badge" alt="Language">
 </p>
 
 ---
 
-## 👤 Profil Mahasiswa
+## 👩‍🎓 Identitas Mahasiswa
 
-<div align="left">
-  <table>
-    <tr>
-      <td><strong>Nama</strong></td>
-      <td>: Khairunisa Olive Ektha</td>
-    </tr>
-    <tr>
-      <td><strong>NPM</strong></td>
-      <td>: 24083010120</td>
-    </tr>
-    <tr>
-      <td><strong>Dosen Pengampu</strong></td>
-      <td>: Dr.Eng. Muhammad Zulhaj Aliansyah, S.T., M.Eng.</td>
-    </tr>
-    <tr>
-      <td><strong>Mata Kuliah</strong></td>
-      <td>: Analisis Numerik (Kelas A)</td>
-    </tr>
-  </table>
-</div>
+| Keterangan | Informasi |
+| :--- | :--- |
+| **Nama Lengkap** | Khairunisa Olive Ektha |
+| **NPM** | 24083010120 |
+| **Mata Kuliah** | Analisis Numerik (A) |
+| **Dosen Pengampu** | Dr.Eng. Muhammad Zulhaj Aliansyah, S.T., M.Eng. |
 
 ---
 
-## 📁 Daftar Berkas Repositori
+## 📌 Deskripsi Repositori
 
-Di bawah ini adalah daftar tugas dan proyek yang telah diselesaikan selama semester ini:
+Repositori ini merupakan dokumentasi akademik mata kuliah **Analisis Numerik** yang berisi kumpulan tugas, evaluasi, serta proyek akhir semester.  
+Seluruh materi diimplementasikan menggunakan **Python** melalui **Jupyter Notebook** untuk menyelesaikan permasalahan matematis dengan pendekatan **metode numerik dan komputasi**.
 
-### 🏆 Proyek Akhir
-| Nama Berkas | Keterangan | Tautan |
+---
+
+## 🚀 Cara Menggunakan Repository
+
+### Clone Repository
+Jalankan perintah berikut pada terminal atau command prompt:
+
+```bash
+git clone https://github.com/Qozuu/analisis-numerik.git
+```
+
+---
+
+### Masuk ke Direktori Project
+Setelah proses clone selesai, masuk ke folder repository:
+
+```bash
+cd analisis-numerik
+```
+
+---
+
+### Jalankan Jupyter Notebook
+Pastikan Python dan Jupyter Notebook telah terinstal, lalu jalankan:
+
+```bash
+jupyter notebook
+```
+
+---
+
+### (Opsional) Instalasi Library
+Jika diperlukan, install library pendukung dengan perintah:
+
+```bash
+pip install numpy scipy matplotlib sympy pandas
+```
+
+---
+
+## 📂 Struktur & Isi Repository
+
+### 📊 Proyek dan Evaluasi Utama
+
+| Kategori | Nama Berkas | Tautan |
 | :--- | :--- | :---: |
-| 📄 `Final-Project.ipynb` | **Proyek Evaluasi Akhir Semester (EAS)** | [Buka](https://github.com/Qozuu/analisis-numerik/blob/main/Final-Project.ipynb) |
-| 📊 `PPT_Kelompok10.pptx` | Presentasi Kelompok 10 | [Unduh](https://github.com/Qozuu/analisis-numerik/blob/main/PPT_Kelompok10.pptx) |
-| 💻 `SourceCode_Kelompok10.ipynb` | Kode Sumber Kelompok 10 | [Buka](https://github.com/Qozuu/analisis-numerik/blob/main/SourceCode_Kelompok10.ipynb) |
+| 🚀 Final Project (UAS) | Final-Project.ipynb | https://github.com/Qozuu/analisis-numerik/blob/main/Final-Project.ipynb |
+| 💻 Source Code Kelompok 10 | SourceCode_Kelompok10.ipynb | https://github.com/Qozuu/analisis-numerik/blob/main/SourceCode_Kelompok10.ipynb |
+| 📑 Presentasi Kelompok | PPT_Kelompok10.pptx | https://github.com/Qozuu/analisis-numerik/blob/main/PPT_Kelompok10.pptx |
+| 📝 Tugas Pengganti ETS | TP_ETS.ipynb | https://github.com/Qozuu/analisis-numerik/blob/main/TP_ETS.ipynb |
 
-### 📝 Tugas & Evaluasi Tengah Semester
-| Kategori | Nama Berkas | Keterangan |
-| :--- | :--- | :--- |
-| **Evaluasi** | `TP_ETS.ipynb` | Tugas Pengganti Evaluas Tengah Semester |
-| **Tugas 4** | `Tugas4.ipynb` | Tugas Mandiri Analisis Numerik 4 |
-| **Tugas 3** | `Tugas3.ipynb` | Tugas Mandiri Analisis Numerik 3 |
-| **Tugas 2** | `Tugas2.ipynb` | Tugas Mandiri Analisis Numerik 2 |
-| **Tugas 1** | `Tugas1.ipynb` | Tugas Mandiri Analisis Numerik 1 |
+---
+
+### 📝 Tugas Individu
+
+- Tugas 1 — https://github.com/Qozuu/analisis-numerik/blob/main/Tugas1.ipynb  
+- Tugas 2 — https://github.com/Qozuu/analisis-numerik/blob/main/Tugas2.ipynb  
+- Tugas 3 — https://github.com/Qozuu/analisis-numerik/blob/main/Tugas3.ipynb  
+- Tugas 4 — https://github.com/Qozuu/analisis-numerik/blob/main/Tugas4.ipynb  
 
 ---
 
 ## 🛠️ Teknologi yang Digunakan
-- **Bahasa Pemrograman:** Python 🐍
-- **Platform:** Jupyter Notebook (.ipynb)
-- **Library Utama:** NumPy, Matplotlib, Pandas (sesuaikan jika ada yang lain)
+
+- Python 3
+- Jupyter Notebook
+- NumPy
+- SciPy
+- Matplotlib
+- SymPy
+
+---
+
+## 🎯 Tujuan Pembelajaran
+
+- Mengimplementasikan algoritma metode numerik secara tepat  
+- Menganalisis error, stabilitas, dan konvergensi metode  
+- Menyajikan hasil komputasi secara sistematis dan terstruktur  
 
 ---
 
 <p align="center">
-  <i>Terima kasih kepada Pak Zulhaj atas bimbingannya selama satu semester ini. ✨</i><br>
-  <b>© 2024 - Khairunisa Olive Ektha</b>
+  <b>© 2024 Khairunisa Olive Ektha</b><br>
+  <i>Repository Akademik — Analisis Numerik</i>
 </p>
